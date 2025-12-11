@@ -16,7 +16,7 @@ body{
     margin-right: auto;
     margin-top: 0px;
     width: 100%;
-    padding: 5px;
+    padding: 300px;
     }
 
     .tekst{
@@ -114,4 +114,5 @@ textarea{
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+
 }
